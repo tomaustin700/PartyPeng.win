@@ -9,7 +9,7 @@
          "X-Azure-FDID":"0d9d6c2b-903a-49f5-94fa-489e9854b664"
       },
       "allowedForwardedHosts":[
-         "https://tafrontdoortest.azurefd.net"
+         "tafrontdoortest.azurefd.net"
       ]
    }
 }
